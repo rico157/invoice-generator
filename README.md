@@ -1,3 +1,4 @@
+# Invoice Generator 📄
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
