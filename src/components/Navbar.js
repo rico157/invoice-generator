@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import download from "../assets/download.svg";
+import printDocument from "../utils/pdfUtils";
 
 const StyledNavbar = styled.nav`
   position: fixed;
@@ -15,12 +16,16 @@ const StyledNavbar = styled.nav`
 const StyledImg = styled.img`
   height: 1.2cm;
   filter: invert(100%);
+
+  &:hover {
+    cursor: pointer;
+  }
 `;
 
 function Navbar() {
   return (
     <StyledNavbar>
-      <StyledImg src={download} alt="download" />
+      <StyledImg src={download} alt="download" onClick={printDocument} />
     </StyledNavbar>
   );
 }
