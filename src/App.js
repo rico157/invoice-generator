@@ -1,23 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import Invoice from "./components/Invoice/Invoice";
+import Navbar from "./components/Navbar";
+import printDocument from "./utils/pdfUtils";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Navbar />
+      <Invoice />
+      <button onClick={printDocument} style={{ width: "3cm", height: "3cm" }}>
+        Download
+      </button>
     </div>
   );
 }
