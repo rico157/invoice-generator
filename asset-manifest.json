@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/rico157/invoice-generator/static/css/main.a443551c.chunk.css",
-    "main.js": "/rico157/invoice-generator/static/js/main.43e27884.chunk.js",
-    "main.js.map": "/rico157/invoice-generator/static/js/main.43e27884.chunk.js.map",
-    "runtime-main.js": "/rico157/invoice-generator/static/js/runtime-main.f177cc45.js",
-    "runtime-main.js.map": "/rico157/invoice-generator/static/js/runtime-main.f177cc45.js.map",
-    "static/js/2.91c331d5.chunk.js": "/rico157/invoice-generator/static/js/2.91c331d5.chunk.js",
-    "static/js/2.91c331d5.chunk.js.map": "/rico157/invoice-generator/static/js/2.91c331d5.chunk.js.map",
-    "index.html": "/rico157/invoice-generator/index.html",
-    "static/css/main.a443551c.chunk.css.map": "/rico157/invoice-generator/static/css/main.a443551c.chunk.css.map",
-    "static/js/2.91c331d5.chunk.js.LICENSE.txt": "/rico157/invoice-generator/static/js/2.91c331d5.chunk.js.LICENSE.txt",
-    "static/media/download.188335c8.svg": "/rico157/invoice-generator/static/media/download.188335c8.svg",
-    "static/media/logo.6ce24c58.svg": "/rico157/invoice-generator/static/media/logo.6ce24c58.svg"
+    "main.css": "/invoice-generator/static/css/main.a443551c.chunk.css",
+    "main.js": "/invoice-generator/static/js/main.43e27884.chunk.js",
+    "main.js.map": "/invoice-generator/static/js/main.43e27884.chunk.js.map",
+    "runtime-main.js": "/invoice-generator/static/js/runtime-main.d9085b3d.js",
+    "runtime-main.js.map": "/invoice-generator/static/js/runtime-main.d9085b3d.js.map",
+    "static/js/2.b0696a87.chunk.js": "/invoice-generator/static/js/2.b0696a87.chunk.js",
+    "static/js/2.b0696a87.chunk.js.map": "/invoice-generator/static/js/2.b0696a87.chunk.js.map",
+    "index.html": "/invoice-generator/index.html",
+    "static/css/main.a443551c.chunk.css.map": "/invoice-generator/static/css/main.a443551c.chunk.css.map",
+    "static/js/2.b0696a87.chunk.js.LICENSE.txt": "/invoice-generator/static/js/2.b0696a87.chunk.js.LICENSE.txt",
+    "static/media/download.188335c8.svg": "/invoice-generator/static/media/download.188335c8.svg",
+    "static/media/logo.6ce24c58.svg": "/invoice-generator/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f177cc45.js",
-    "static/js/2.91c331d5.chunk.js",
+    "static/js/runtime-main.d9085b3d.js",
+    "static/js/2.b0696a87.chunk.js",
     "static/css/main.a443551c.chunk.css",
     "static/js/main.43e27884.chunk.js"
   ]
