@@ -1,6 +1,6 @@
 {
   "name": "invoice-generator",
-  "homepage": "https://rico157.github.io/rico157/invoice-generator",
+  "homepage": "https://rico157.github.io/invoice-generator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
