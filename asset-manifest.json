@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/rico157/invoice-generator/static/css/main.a443551c.chunk.css",
+    "main.js": "/rico157/invoice-generator/static/js/main.24566782.chunk.js",
+    "main.js.map": "/rico157/invoice-generator/static/js/main.24566782.chunk.js.map",
+    "runtime-main.js": "/rico157/invoice-generator/static/js/runtime-main.097b0911.js",
+    "runtime-main.js.map": "/rico157/invoice-generator/static/js/runtime-main.097b0911.js.map",
+    "static/js/2.969d9cb1.chunk.js": "/rico157/invoice-generator/static/js/2.969d9cb1.chunk.js",
+    "static/js/2.969d9cb1.chunk.js.map": "/rico157/invoice-generator/static/js/2.969d9cb1.chunk.js.map",
+    "static/js/3.d64c6e96.chunk.js": "/rico157/invoice-generator/static/js/3.d64c6e96.chunk.js",
+    "static/js/3.d64c6e96.chunk.js.map": "/rico157/invoice-generator/static/js/3.d64c6e96.chunk.js.map",
+    "static/js/4.af617948.chunk.js": "/rico157/invoice-generator/static/js/4.af617948.chunk.js",
+    "static/js/4.af617948.chunk.js.map": "/rico157/invoice-generator/static/js/4.af617948.chunk.js.map",
+    "index.html": "/rico157/invoice-generator/index.html",
+    "static/css/main.a443551c.chunk.css.map": "/rico157/invoice-generator/static/css/main.a443551c.chunk.css.map",
+    "static/js/2.969d9cb1.chunk.js.LICENSE.txt": "/rico157/invoice-generator/static/js/2.969d9cb1.chunk.js.LICENSE.txt",
+    "static/js/3.d64c6e96.chunk.js.LICENSE.txt": "/rico157/invoice-generator/static/js/3.d64c6e96.chunk.js.LICENSE.txt",
+    "static/js/4.af617948.chunk.js.LICENSE.txt": "/rico157/invoice-generator/static/js/4.af617948.chunk.js.LICENSE.txt",
+    "static/media/download.188335c8.svg": "/rico157/invoice-generator/static/media/download.188335c8.svg",
+    "static/media/logo.6ce24c58.svg": "/rico157/invoice-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.097b0911.js",
+    "static/js/3.d64c6e96.chunk.js",
+    "static/css/main.a443551c.chunk.css",
+    "static/js/main.24566782.chunk.js"
+  ]
+}
